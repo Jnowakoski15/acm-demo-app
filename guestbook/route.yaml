@@ -3,7 +3,7 @@ kind: Route
 metadata:
   name: guestbook
 spec:
-  host: guestbook.apps.s9cqd.sandbox1011.opentlc.com
+  host: guestbook-guestbook.apps.jason-aws.sandbox1011.opentlc.com
   port:
     targetPort: 80
   to:
